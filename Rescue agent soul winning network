@@ -1,0 +1,226 @@
+<!DOCTYPE html>  <html lang="en">  
+<head>  
+<meta charset="UTF-8">  
+<meta name="viewport" content="width=device-width, initial-scale=1.0">  
+<title>Rescue Agent Soul Winning Network</title>  <style>  
+*{  
+    margin:0;  
+    padding:0;  
+    box-sizing:border-box;  
+    font-family: Arial, sans-serif;  
+}  
+  
+body{  
+    background:#f8f8f8;  
+    color:#222;  
+}  
+  
+header{  
+    background:linear-gradient(rgba(0,0,50,.75),rgba(0,0,50,.75)),  
+    url('https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=1600');  
+    background-size:cover;  
+    background-position:center;  
+    color:white;  
+    text-align:center;  
+    padding:120px 20px;  
+}  
+  
+header h1{  
+    font-size:3rem;  
+    margin-bottom:15px;  
+}  
+  
+header p{  
+    font-size:1.2rem;  
+    max-width:800px;  
+    margin:auto;  
+}  
+  
+.btn{  
+    display:inline-block;  
+    margin-top:25px;  
+    padding:12px 30px;  
+    background:gold;  
+    color:#000;  
+    text-decoration:none;  
+    font-weight:bold;  
+    border-radius:5px;  
+}  
+  
+nav{  
+    background:#001f54;  
+    padding:15px;  
+    text-align:center;  
+}  
+  
+nav a{  
+    color:white;  
+    text-decoration:none;  
+    margin:0 15px;  
+    font-weight:bold;  
+}  
+  
+section{  
+    padding:70px 10%;  
+}  
+  
+.section-title{  
+    text-align:center;  
+    color:#001f54;  
+    margin-bottom:30px;  
+    font-size:2rem;  
+}  
+  
+.card-container{  
+    display:grid;  
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));  
+    gap:20px;  
+}  
+  
+.card{  
+    background:white;  
+    padding:25px;  
+    border-radius:10px;  
+    box-shadow:0 3px 10px rgba(0,0,0,.1);  
+}  
+  
+.quote{  
+    background:#001f54;  
+    color:white;  
+    text-align:center;  
+    padding:60px 20px;  
+    font-size:1.3rem;  
+    font-style:italic;  
+}  
+  
+footer{  
+    background:#000d2f;  
+    color:white;  
+    text-align:center;  
+    padding:30px;  
+}  
+  
+.contact-form{  
+    max-width:600px;  
+    margin:auto;  
+}  
+  
+.contact-form input,  
+.contact-form textarea{  
+    width:100%;  
+    padding:12px;  
+    margin:10px 0;  
+    border:1px solid #ccc;  
+}  
+  
+.contact-form button{  
+    background:gold;  
+    border:none;  
+    padding:12px 30px;  
+    font-weight:bold;  
+    cursor:pointer;  
+}  
+</style>  </head>  <body>  <header>  
+    <h1>RESCUE AGENT SOUL WINNING NETWORK</h1>  <p>  
+    Raising Soul Winners • Making Disciples • Preparing Men for Eternity  
+</p>  
+
+<a href="#contact" class="btn">Join Us</a>
+
+</header>  <nav>  
+    <a href="#about">About</a>  
+    <a href="#vision">Vision</a>  
+    <a href="#ministries">Ministries</a>  
+    <a href="#events">Events</a>  
+    <a href="#contact">Contact</a>  
+</nav>  <section class="quote">  
+    "We serve a Question Answering God. Therefore, we can ask God questions,  
+    but we're not permitted to question Him."  
+</section>  <section id="about">  
+    <h2 class="section-title">About Us</h2>  <p style="text-align:center;max-width:900px;margin:auto;">  
+    Rescue Agent Soul Winning Network (RASWN) exists to win souls,  
+    disciple believers, train evangelists, and spread the Gospel of  
+    Jesus Christ to the ends of the earth.  
+</p>
+
+</section>  <section id="vision">  
+    <h2 class="section-title">Vision & Mission</h2>  <div class="card-container">  
+
+    <div class="card">  
+        <h3>Vision</h3>  
+        <p>  
+            To raise an army of passionate believers committed to soul  
+            winning, revival, discipleship, and kingdom advancement.  
+        </p>  
+    </div>  
+
+    <div class="card">  
+        <h3>Mission</h3>  
+        <p>  
+            To rescue souls, equip saints, spread the Gospel,  
+            and prepare people for the return of Christ.  
+        </p>  
+    </div>  
+
+</div>
+
+</section>  <section id="ministries">  
+    <h2 class="section-title">Our Ministries</h2>  <div class="card-container">  
+
+    <div class="card">  
+        <h3>Evangelism Team</h3>  
+        <p>Street outreach, campus evangelism, and missions.</p>  
+    </div>  
+
+    <div class="card">  
+        <h3>Prayer Network</h3>  
+        <p>Intercession, revival prayers, and spiritual warfare.</p>  
+    </div>  
+
+    <div class="card">  
+        <h3>Soul Winning Academy</h3>  
+        <p>Training believers in effective evangelism and discipleship.</p>  
+    </div>  
+
+    <div class="card">  
+        <h3>Youth Revival</h3>  
+        <p>Raising a generation passionate about Jesus Christ.</p>  
+    </div>  
+
+</div>
+
+</section>  <section id="events">  
+    <h2 class="section-title">Upcoming Events</h2>  <div class="card-container">  
+
+    <div class="card">  
+        <h3>Sunday Worship</h3>  
+        <p>Every Sunday - 9:00 AM</p>  
+    </div>  
+
+    <div class="card">  
+        <h3>Bible Study</h3>  
+        <p>Every Wednesday - 5:00 PM</p>  
+    </div>  
+
+    <div class="card">  
+        <h3>Prayer Meeting</h3>  
+        <p>Every Friday - 6:00 PM</p>  
+    </div>  
+
+</div>
+
+</section>  <section id="contact">  
+    <h2 class="section-title">Contact Us</h2>  <form class="contact-form">  
+    <input type="text" placeholder="Your Name">  
+    <input type="email" placeholder="Your Email">  
+    <textarea rows="5" placeholder="Prayer Request or Message"></textarea>  
+    <button type="submit">Send Message</button>  
+</form>
+
+</section>  <footer>  
+    <h3>Rescue Agent Soul Winning Network</h3>  
+    <p>Every Soul Matters To God. Every Believer Is A Soul Winner.</p>  
+    <br>  
+    <p>© 2026 RASWN. All Rights Reserved.</p>  
+</footer>  </body>  
+</html>
